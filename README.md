@@ -1,5 +1,5 @@
 # Eu sou o **Antonny**!
-Formado em **Inteligência Artificial** pela **FIAP**, entusiasta da ciencia de dados e da computação em nuvem!
+Formado em **Inteligência Artificial** pela **FIAP**, entusiasta da ciência de dados e da computação em nuvem!
 
 Meus dois maiores projetos foram ainda na faculdade através do projeto **Challenge** da **FIAP**, onde empresas propõem desafios aos alunos com o objetivo de colocar em prática os conhecimentos adquiridos ao longo dos anos de estudos.
 O primeiro deles foi proposto pela empresa **BASF** e nós tivemos que criar uma aplicação capaz de prever o custo do frete em diversos cenários diferentes, variando entre cargas, veículos, distancia percorrida entre outros fatores. O segundo desafio consistiu em um problema voltado ao suporte da empresa John Deere, utilizando inteligência artificial, conseguimos direcionar os tickets de suporte para seus respectivos setores, além de classificar cada tipo de problema relatado pelo cliente, visando otimizar o tempo gasto na solução de problemas. Você pode ler artigos referentes a cada desafio, publicado por representantes de cada empresa, basta clicar nos nomes das parceiras abaixo!
@@ -12,7 +12,7 @@ O primeiro deles foi proposto pela empresa **BASF** e nós tivemos que criar uma
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/antonnymendonca)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31qelafyqxxhzb323y2kdzoypzge?si=55983fa4d0754204)
 
-[![EventoFiap2022-1234marca-da-agua](https://i.im.ge/2023/03/18/D6rUzm.EventoFiap2022-1234marca-da-agua.jpg)](https://im.ge/i/D6rUzm)
+[![EventoFiap2022-1234marca-da-agua](https://i.im.ge/2023/03/18/D6X80F.EventoFiap2022-1234marca-da-agua.jpg)](https://im.ge/i/D6X80F)
 
 
 
