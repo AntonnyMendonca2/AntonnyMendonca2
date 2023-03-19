@@ -33,11 +33,15 @@ O primeiro deles foi proposto pela empresa **BASF** e nós tivemos que criar uma
 ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
-[![Mendonca GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonnyMendonca2&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonnyMendonca2&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Mendonca GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonnyMendonca2&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonnyMendonca2&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # **Estudando atualmente**
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GOOGLE](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GOOGLE](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+
+# **Projetos interessantes**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AntonnyMendonca2&repo=Covid19_PowerBI&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AntonnyMendonca2&repo=Selenium-vs-Scrapy&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
