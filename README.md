@@ -16,6 +16,7 @@ O primeiro deles foi proposto pela empresa **BASF** e nós tivemos que criar uma
 
 
 
+
 # **Habilidades**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
