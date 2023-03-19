@@ -32,7 +32,6 @@ O primeiro deles foi proposto pela empresa **BASF** e nós tivemos que criar uma
 
 [![Mendonca GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonnyMendonca2&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
 # **Estudando atualmente**
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GOOGLE](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
