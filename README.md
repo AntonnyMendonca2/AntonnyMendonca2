@@ -12,9 +12,7 @@ O primeiro deles foi proposto pela empresa **BASF** e nós tivemos que criar uma
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/antonnymendonca)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31qelafyqxxhzb323y2kdzoypzge?si=55983fa4d0754204)
 
-[![EventoFiap2022-1234marca-da-agua](https://i.im.ge/2023/03/18/D6rUzm.EventoFiap2022-1234marca-da-agua.jpg)](https://im.ge/i/D6rUzm)
-
-
+![EventoFiap2022-1234marca-da-agua](https://i.im.ge/2023/03/18/D6rUzm.EventoFiap2022-1234marca-da-agua.jpg)
 
 # **Habilidades**
 
