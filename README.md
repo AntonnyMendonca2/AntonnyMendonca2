@@ -45,3 +45,4 @@ O primeiro deles foi proposto pela empresa **BASF** e nós tivemos que criar uma
 # **Projetos interessantes**
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AntonnyMendonca2&repo=Covid19_PowerBI&theme=github_dark)](https://github.com/AntonnyMendonca2/Covid19_PowerBI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AntonnyMendonca2&repo=Selenium-vs-Scrapy&theme=github_dark)](https://github.com/AntonnyMendonca2/Selenium-vs-Scrapy)
+
