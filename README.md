@@ -7,7 +7,6 @@ O primeiro deles foi proposto pela empresa **BASF** e nós tivemos que criar uma
 [**John Deere**](https://www.linkedin.com/pulse/how-can-we-fill-gap-between-universities-companies-michel-fernandes/?trackingId=m318kjwMQ%2BqIG667DwwTXA%3D%3D) - 
 [**BASF**](https://www.basf.com/br/pt/media/news-releases/2022/01/Estudantes_da_FIAP_desenvolvem_ferramenta_de_IA_para_gestao_de_fretes_BASF.html)
 
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonnymendonca/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/antonnymendonca)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31qelafyqxxhzb323y2kdzoypzge?si=55983fa4d0754204)
